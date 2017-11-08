@@ -1,3 +1,16 @@
 h1 {
   color: blue;
+  text-align: center;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  border: solid 10px pink;
+}
+
+#first {
+  height: 200px;
+  width: 200px;
+  border: 0;
 }
